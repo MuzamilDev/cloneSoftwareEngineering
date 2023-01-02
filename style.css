@@ -1,0 +1,108 @@
+.clone {
+    margin: auto;
+    height: 680px;
+    width: 400px;
+    border: 3px solid black;
+    position: relative;
+}
+
+.cover {
+    margin: auto;
+    height: 350px;
+    width: 400px;
+    position: relative;
+}
+
+.cover img {
+    height: 180px;
+    width: 400px;
+    position: relative;
+}
+
+.cover .circle {
+    margin: auto;
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    border-radius: 50%;
+    top: -90px;
+    position: relative;
+}
+
+.circle img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+p {
+    margin-top: 15px;
+    font-size: 15px;
+    text-align: center;
+}
+
+#id {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.buttons {
+    margin-left: 10px;
+    height: 40px;
+    width: 400px;
+}
+
+.buttons #button1 {
+    height: 39px;
+    width: 225px;
+    border-radius: 25px;
+    background-color: rgb(7, 7, 252);
+    color: white;
+}
+
+.buttons #button2 {
+    height: 40px;
+    width: 70px;
+    border-radius: 25px;
+    background-color: rgb(206, 206, 241);
+}
+
+.buttons #button3 {
+    height: 40px;
+    width: 70px;
+    border-radius: 25px;
+    background-color: rgb(206, 206, 241);
+}
+
+i {
+    font-size: 15px;
+}
+
+.details {
+    height: 70px;
+    width: 250px;
+}
+
+.details ul li {
+    margin-bottom: 3px;
+    font-size: 17px;
+    list-style-type: none;
+}
+
+.stories {
+    margin-left: 2px;
+    margin-top: 50px;
+    height: 150px;
+    width: 400px;
+    display: flex;
+}
+
+.stories img {
+    height: 130px;
+    width: 110px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+    display: inline-flex;
+}
